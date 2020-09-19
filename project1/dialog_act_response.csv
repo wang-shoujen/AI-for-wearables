@@ -1,0 +1,34 @@
+SWDB-DA,SWBD,Example of Question,Index,Response,Example response
+Statement-opinion,sv,I think it's great,0,Agree,I think so too.
+Statement-opinion,sv,I think it's great,1,Disagree,I don't think so.
+Statement-opinion,sv,I think it's great,2,Neurtal,Good for you.
+Agree/Accept,aa,That's exactly it.,0,Agree,I agree.
+Yes-No-Question,qy,Do you have to have any special training?,0,Agree,Yes!
+Yes-No-Question,qy,Can you get that for me?,1,Disagree,I cannot reach it
+Yes-No-Question,qy,Can you move this for me?,2,Neutral,I might be able to pick it up
+Wh-Question,qw,"Well, how old are you?",0,Neutral,x
+Declarative Yes-No-Question,qy^d,So you can afford to get a house?,0,Agree,Of course.
+Declarative Yes-No-Question,qy^d,Can you afford your medicine?,1,Disagree,Nope.
+Declarative Yes-No-Question,qy^d,Would you be willing to go that way?,2,Neutral,I can try
+Quotation,^q,You can't be pregnant and have cats,0,Neutral,x
+Action-directive,ad,Why don't you go first,0,Agree,Sure.
+Action-directive,ad,Would you be able to do this?,1,Disagree,No.
+Action-directive,ad,Would you be able to do this?,2,Neurtal,I'm not sure.
+Collaborative Completion,^2,Who isn't contributing.,2,Neutral,x
+Open-Question,qo,How about you?,0,Postive,I am kicking
+Hold before answer/agreement,^h,I'm drawing a blank.,2,Neutral,x
+Other answers,no,I don't know,2,Neutral,x
+Conventional-opening,fp,How are you?,0,Positive,I am good!
+Conventional-opening,fp,How are you?,1,Negative,I am not so well today
+Conventional-opening,fp,What brought you here?,2,Neutral,I do not know
+Or-Clause,qrr,or is it more of a company?,0,Neutral,x
+"Offers, Options Commits","oo,cc,co",I'll have to check that out,0,Neutral,Of course.
+Maybe/Accept-part,aap/am,Something like that,0,Agree,
+Maybe/Accept-part,aap/am,I will have to think about it,1,Disagree,
+Maybe/Accept-part,aap/am,I should be able to,2,Neutral,
+Tag-Question,^g,Right?,0,Agree,That is correct.
+Tag-Question,^g,I don't think so?,1,Disagree,That is not correct.
+Tag-Question,^g,Well maybe?,2,Neutral,I don't know.
+Apology,fa,I'm sorry.,0,Accept,That's all right.
+Apology,fa,I'm sorry.,1,Do not accept,Why did you do that?
+Thanking,ft,Hey thanks a lot,0,Reply,Not a problem.

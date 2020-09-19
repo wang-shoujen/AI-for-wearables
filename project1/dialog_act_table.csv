@@ -1,13 +1,13 @@
 SWBD-DAMSL,SWBD,Response
 Statement-non-opinion,sd,no
-Acknowledge (Backchannel) ,b,yes
+Acknowledge (Backchannel) ,b,no
 Statement-opinion,sv,yes
 Agree/Accept,aa,yes
 Abandoned or Turn-Exit ,% -,no
 Appreciation,ba,no
-Yes-No-Question,qy,Yes
+Yes-No-Question,qy,yes
 Non-verbal ,x,no
-Yes answers ,ny,yes
+Yes answers ,ny,no
 Conventional-closing,fc,no
 Uninterpretable,%,no
 Wh-Question,qw,yes
@@ -17,12 +17,12 @@ Hedge,h,no
 Declarative Yes-No-Question ,qy^d,yes
 Other,"o,fo,bc,by,fw",no
 Backchannel in question form ,bh,no
-Quotation,^q,no
+Quotation,^q,yes
 Summarize/reformulate,bf,no
-Affirmative non-yes answers,"na,ny^e",yes
+Affirmative non-yes answers,"na,ny^e",no
 Action-directive ,ad,yes
 Collaborative Completion,^2,maybe
-Repeat-phrase,b^m,yes
+Repeat-phrase,b^m,no
 Open-Question,qo,yes
 Rhetorical-Questions,qh,no
 Hold before answer/agreement,^h,maybe
